@@ -3,31 +3,7 @@
 - company: Airudi Inc
   position: Cloud Architect
   duration: April, 2023 &mdash; Present
-  responsibilities: 
-  
-Created comprehensive cloud solutions on Azure by leveraging Python for scripting and coding Restful APIs to meet specific business requirements.
-
-Developed and maintained Infrastructure as Code (IaC) templates using Python, PowerShell, or Bash to automate resource provisioning and management on Azure.
-
-Developed automation scripts and utilities using Python, PowerShell, and Bash to automate resource deployment, scaling, and management within Azure.
-
-Utilized Python and other scripting languages to optimize Azure costs by right-sizing resources, automating cost reporting, and managing resource lifecycle.
-
-Ensured security best practices and compliance standards are met when coding Restful APIs and automating resource deployments on Azure.
-
-Designed strategies for high availability and disaster recovery, incorporating Python-based failover solutions and automated backup processes.
-
-Monitored and optimized the performance of Azure resources by leveraging Python for performance analysis and tuning.
-
-Collaborated with cross-functional teams to ensure Azure solutions align with development goals, using Python and Restful APIs for effective integration.
-
-Designed and manage Azure solutions that seamlessly integrate with on-premises infrastructure, requiring proficiency in RHEL 7.x/8.x and Windows Server 2019/2022 administration for hybrid deployments.
-
-Ensureed that Azure solutions incorporate best practices in networking, storage, and security, and demonstrate operational experience in these areas to optimize cloud infrastructure performance and maintain data integrity.
-
-Implemented and manage Terraform Enterprise for Infrastructure as Code (IaC) delivery pipelines, integrating with CI/CD tools to automate Azure resource deployment and maintenance.
-
-Collaborated with teams to select and configure Azure services that align with both RHEL and Windows systems, ensuring compatibility and efficiency while utilizing Azure's networking, storage, and security capabilities.
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # AWS Solutions Architect
 - company: Global Intelligence Inc
